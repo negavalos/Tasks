@@ -1,0 +1,7 @@
+Contiene 
+npm i sass
+npm i bootstrap
+npm i bootstrap-icon
+npm i node 
+npm install formik --save
+npm i yup
