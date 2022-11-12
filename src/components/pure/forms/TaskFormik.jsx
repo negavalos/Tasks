@@ -58,6 +58,7 @@ const TaskFormik = ({add, length}) => {
             onSubmit={async (values) => {
                     await new Promise((r) => setTimeout(r, 500));
                     addTask(values)
+                    
                   
             }}
             className='d-flex justify-content-center align-items-center mb-4'
